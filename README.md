@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatthewStebelsky
-- 👀 I’m interested in using my skills to apply ML, Data Science and AI to a business enviornment
+- 👀 I’m interested in using my skills to apply ML, Data Science and data vizualization to create insights for the businesses I work in.
 - 📫 Reach me @matthewstebelsky on ig
 
 <!---
