@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatthewStebelsky
-- 👀 I’m interested in using my skills in software development, data analysis/engineering, and ML to create cool stuff!
+- 👀 I’m interested in using my skills in software development, data analysis/engineering, and ML to do things interesting to me!
 - 📫 Reach me @matthewstebelsky on ig
 
 <!---
